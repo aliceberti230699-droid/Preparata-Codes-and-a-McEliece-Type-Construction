@@ -6,10 +6,10 @@ The code covers the classical McEliece cryptosystem based on binary Goppa codes 
 
 ## Repository Contents
 
-* **`A worked example of the McEliece cryptosystem.sage`**
+* **`A worked example of the McEliece cryptosystem.ipynb`**
   Implementation of binary Goppa codes and the classical McEliece cryptosystem. The file also contains the computations needed to reproduce the worked example presented in the thesis.
 
-* **`Towards a McEliece-type scheme based on Preparata codes.sage`**
+* **`Towards a McEliece-type scheme based on Preparata codes.ipynb`**
   Implementation of Preparata codes and the corresponding McEliece-type construction, together with the computational experiments carried out as part of the thesis.
 
 ## Requirements
